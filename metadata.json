@@ -1,0 +1,7 @@
+{
+  "name": "Roya Waves",
+  "description": "A modern, Arabic-first podcast streaming application featuring AI-powered summaries and a sleek dark-mode interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
